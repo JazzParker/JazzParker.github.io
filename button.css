@@ -33,9 +33,3 @@ body{
   font-size:20px;
   color:white;
 }
-html {
-  zoom: 0.60;
-  -moz-transform: scale(1);
-  -webkit-transform: scale(1);
-  transform: scale(1);
-}
